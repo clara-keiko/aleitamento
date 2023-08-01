@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>786255895643-9b5aa2f2b0jurhc4d91cr307s0b8o57d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.786255895643-9b5aa2f2b0jurhc4d91cr307s0b8o57d</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>786255895643-hrupiq6sm8ueui4jir6l5i8s61r4kphb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLT5YmRZUtVUBkr8REy5tphsT1MxnFN-8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>786255895643</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>lactare.aleitamento.app</string>
+	<key>PROJECT_ID</key>
+	<string>aleitamento-f1d55</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aleitamento-f1d55.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:786255895643:ios:a28910929a6895432df37e</string>
+</dict>
+</plist>
